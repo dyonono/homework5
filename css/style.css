@@ -172,7 +172,7 @@ header{
   /* Cards! */
   .card {
     flex-direction: column;
-    flex-basis: 225px;
+    flex-basis: 250px;
     align-content: left;
   }
 
